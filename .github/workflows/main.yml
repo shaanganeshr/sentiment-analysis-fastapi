@@ -25,4 +25,4 @@ jobs:
 
     - name: Execute Automated Pytest Suite
       run: |
-        pytest test_fastapi.py
+        pytest
